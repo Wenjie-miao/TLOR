@@ -1,0 +1,3 @@
+torch==2.1.0+cu114
+torchaudio==2.1.0+cu114
+torchvision==0.14.1+cu114
